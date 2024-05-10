@@ -29,8 +29,8 @@
 
 .section-intro {
     height: 820px;
-    background-image: url(img/intro.jpg);
-    background-size: contain;
+    background-image: url(img/intro_wide2.png);
+    background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
